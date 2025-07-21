@@ -1,6 +1,6 @@
-namespace ClinicCareHub.API
+namespace ClinicCareHub.API.Models
 {
-    public class WeatherForecast
+    public class WeatherForecastModel
     {
         public DateOnly Date { get; set; }
 
